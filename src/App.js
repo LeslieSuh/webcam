@@ -1,5 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import DiaryEditor from "./DiaryEditor";
+import "./App.css";
 
 function App() {
   const videoRef = useRef(null);

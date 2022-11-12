@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import "./DiaryEditor.css";
 
 const DiaryEditor = () => {
   const [state, setState] = useState({
@@ -16,6 +17,7 @@ const DiaryEditor = () => {
   };
 
   const handleSubmit = () => {
+    console.log(state);
     alert("Saved!");
   };
 
