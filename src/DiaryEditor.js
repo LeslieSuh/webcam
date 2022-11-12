@@ -39,6 +39,7 @@ const DiaryEditor = () => {
         />
       </div>
       <div>
+        <span>Today's Emotion Score: </span>
         <select
           name="emotion"
           value={state.emotion}
