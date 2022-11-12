@@ -1,13 +1,13 @@
 {
-  "main.css": "/webcam/static/css/main.168e73c8.chunk.css",
-  "main.js": "/webcam/static/js/main.1a99d901.chunk.js",
-  "main.js.map": "/webcam/static/js/main.1a99d901.chunk.js.map",
-  "static/js/1.67911696.chunk.js": "/webcam/static/js/1.67911696.chunk.js",
-  "static/js/1.67911696.chunk.js.map": "/webcam/static/js/1.67911696.chunk.js.map",
+  "main.css": "/webcam/static/css/main.c26a0680.chunk.css",
+  "main.js": "/webcam/static/js/main.69c32ec5.chunk.js",
+  "main.js.map": "/webcam/static/js/main.69c32ec5.chunk.js.map",
+  "static/js/1.b4778f74.chunk.js": "/webcam/static/js/1.b4778f74.chunk.js",
+  "static/js/1.b4778f74.chunk.js.map": "/webcam/static/js/1.b4778f74.chunk.js.map",
   "runtime~main.js": "/webcam/static/js/runtime~main.0bbf02c3.js",
   "runtime~main.js.map": "/webcam/static/js/runtime~main.0bbf02c3.js.map",
-  "static/css/main.168e73c8.chunk.css.map": "/webcam/static/css/main.168e73c8.chunk.css.map",
+  "static/css/main.c26a0680.chunk.css.map": "/webcam/static/css/main.c26a0680.chunk.css.map",
   "index.html": "/webcam/index.html",
-  "precache-manifest.c104b39edcf6387af58d2b16b60abce5.js": "/webcam/precache-manifest.c104b39edcf6387af58d2b16b60abce5.js",
+  "precache-manifest.279a9888439fb266d5f709cc0406af9d.js": "/webcam/precache-manifest.279a9888439fb266d5f709cc0406af9d.js",
   "service-worker.js": "/webcam/service-worker.js"
 }
