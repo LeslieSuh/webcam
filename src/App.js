@@ -1,9 +1,9 @@
 import React, { useRef, useState, useEffect } from "react";
+import DiaryEditor from "./DiaryEditor";
 
 function App() {
   const videoRef = useRef(null);
   const photoRef = useRef(null);
-
   const [hasPhoto, setHasPhoto] = useState(false);
 
   const getVideo = () => {
@@ -32,6 +32,9 @@ function App() {
       <div className={"result" + (hasPhoto ? " hasPhoto" : "")}>
         <canvas ref={photoRef}></canvas>
         <button>CLOSE!</button>
+      </div>
+      <div className="diary">
+        <DiaryEditor />
       </div>
     </div>
   );
