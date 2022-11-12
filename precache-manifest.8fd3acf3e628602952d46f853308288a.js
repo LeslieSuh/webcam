@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "69c32ec5bf5059a44015",
+    "revision": "57d0e6292d890446a57f",
     "url": "/webcam/static/css/main.c26a0680.chunk.css"
   },
   {
-    "revision": "69c32ec5bf5059a44015",
-    "url": "/webcam/static/js/main.69c32ec5.chunk.js"
+    "revision": "57d0e6292d890446a57f",
+    "url": "/webcam/static/js/main.57d0e629.chunk.js"
   },
   {
     "revision": "b4778f745d2166e2df32",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/webcam/static/js/runtime~main.0bbf02c3.js"
   },
   {
-    "revision": "bba8b92b5389a7e4c2b29d9be4043307",
+    "revision": "ce7b7adf6e4136a27dd50e10bf4e6101",
     "url": "/webcam/index.html"
   }
 ];
