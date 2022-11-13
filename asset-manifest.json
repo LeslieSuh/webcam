@@ -1,13 +1,13 @@
 {
   "main.css": "/webcam/static/css/main.c26a0680.chunk.css",
-  "main.js": "/webcam/static/js/main.203cd232.chunk.js",
-  "main.js.map": "/webcam/static/js/main.203cd232.chunk.js.map",
+  "main.js": "/webcam/static/js/main.c237519a.chunk.js",
+  "main.js.map": "/webcam/static/js/main.c237519a.chunk.js.map",
   "static/js/1.b4778f74.chunk.js": "/webcam/static/js/1.b4778f74.chunk.js",
   "static/js/1.b4778f74.chunk.js.map": "/webcam/static/js/1.b4778f74.chunk.js.map",
   "runtime~main.js": "/webcam/static/js/runtime~main.0bbf02c3.js",
   "runtime~main.js.map": "/webcam/static/js/runtime~main.0bbf02c3.js.map",
   "static/css/main.c26a0680.chunk.css.map": "/webcam/static/css/main.c26a0680.chunk.css.map",
   "index.html": "/webcam/index.html",
-  "precache-manifest.17d2eba048522128a106ddbce4c9574f.js": "/webcam/precache-manifest.17d2eba048522128a106ddbce4c9574f.js",
+  "precache-manifest.ba1c47e149da2e49336ba129a3d3e8fc.js": "/webcam/precache-manifest.ba1c47e149da2e49336ba129a3d3e8fc.js",
   "service-worker.js": "/webcam/service-worker.js"
 }
